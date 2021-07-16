@@ -5,7 +5,8 @@ body {
 p {
     margin: auto;
     text-align: center;
-    width: 200px;
+    width: 500px;
+    border-radius:80px;
     color: blue;
     font-size: 2em;
     border-bottom: 2px solid blue;
