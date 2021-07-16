@@ -3,7 +3,11 @@ body {
 }
 
 p {
+    margin: auto;
+    text-align: center;
+    width: 200px;
     color: blue;
     font-size: 2em;
     border-bottom: 2px solid blue;
+    border-right: 2px solid blue;
 }
